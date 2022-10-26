@@ -1,0 +1,2 @@
+Ejecutar dentro de la carpeta \ECG_TFG\CasosHf5\Diagnosticos
+python ../../predict.py ../Caso5.h5 ..\..\final_model.hdf5  --output_file Diagnostico5
