@@ -1,2 +1,6 @@
 Caso1
 Caso2
+Caso3
+Caso4
+Caso5
+Caso6

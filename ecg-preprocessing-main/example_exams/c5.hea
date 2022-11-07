@@ -1,0 +1,13 @@
+Caso5 12 500 5300
+Caso5.dat 32 200(0)/mV 32 0 0 0 0 DI
+Caso5.dat 32 200(0)/mV 32 0 -1 3440 0 DII
+Caso5.dat 32 200(0)/mV 32 0 -1 3440 0 DIII
+Caso5.dat 32 200(0)/mV 32 0 0 64959 0 AVR
+Caso5.dat 32 200(0)/mV 32 0 0 65512 0 AVL
+Caso5.dat 32 200(0)/mV 32 0 -1 3581 0 AVF
+Caso5.dat 32 200(0)/mV 32 0 2 229 0 V1
+Caso5.dat 32 200(0)/mV 32 0 2 131 0 V2
+Caso5.dat 32 200(0)/mV 32 0 0 93 0 V3
+Caso5.dat 32 200(0)/mV 32 0 0 65304 0 V4
+Caso5.dat 32 200(0)/mV 32 0 -1 65138 0 V5
+Caso5.dat 32 200(0)/mV 32 0 -2 62927 0 V6
